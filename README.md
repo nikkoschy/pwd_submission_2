@@ -1,7 +1,7 @@
 # NYC TLC TRIP RECORD
 
 # Preface
-case study analysis using the New York City TLC Trip Record dataset which includes:
+This is a case study analysis using the New York City TLC Trip Record dataset which includes:
 
 Preliminary data operations:
 - Data cleaning

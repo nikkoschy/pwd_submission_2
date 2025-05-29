@@ -2,14 +2,16 @@
 
 # Preface
 case study analysis using the New York City TLC Trip Record dataset which includes:
-- Preliminary data operations
--- Data cleaning
--- Data formatting
--- Anomaly-handling
-- Analysis
--- Descriptive statistics
--- Visualizations
--- Findings/insights
+
+Preliminary data operations:
+- Data cleaning
+- Data formatting
+- Anomaly-handling
+
+Analysis:
+- Descriptive statistics
+- Visualizations
+- Findings/insights
 
 # Obective
 Main objective that is aimed by this analysis is to provide insights in order to support decision making and strategies within the realm of: 

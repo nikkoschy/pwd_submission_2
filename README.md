@@ -30,7 +30,7 @@ Main objective that is aimed by this analysis is to provide insights in order to
 - **Optimizing supply within peak days and peak hours:** While the peak days and peak hours shown to bring the highest transaction/trip volume and revenues, it seems that there are ceiling of average daily trips within said days within January 2023. This also needs to be adjusted to different factors such as: the historical and projected traffic levels, competitions alongside their supplies and pricings, as well as future trends.
 - **Prioritizing shorter distance trips and potential low hanging fruits:** In terms of having higher revenues, other than optimizing what was mentioned in previous point, there are opportunities shown by other potentially-high volume times such as morning rush hours within the weekdays, afternoon times within the weekends, followed by late night demands in the weekends respectively.
 
-# Tableau link
+# Tableau Links
 - [Daily Trends](https://public.tableau.com/app/profile/nikko.sucahyo/viz/Capstone2-DailyTrends/Dashboard1)
 - [Trends By Day](https://public.tableau.com/app/profile/nikko.sucahyo/viz/Capstone2-TrendsbyDay/Dashboard2)
 - [Hourly Heatmap](https://public.tableau.com/app/profile/nikko.sucahyo/viz/Capstone2-HourlyHeatmap/Dashboard3)
